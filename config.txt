@@ -1,0 +1,3 @@
+﻿prefix=!
+token= NTIwNzg4MDEzMDM1NTUyNzcx.Duy-kg.3GW5UhXWD21vYlVReK8DGpuhZYI
+owner= 519589426142380038
