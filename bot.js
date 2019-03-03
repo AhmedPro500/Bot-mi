@@ -49,4 +49,4 @@ if (message.content.startsWith(adminprefix + 'setavatar')) {
 
 
 
-client.login(settings.token);
+client.login("NTUxNjUzMDUxMTAyOTIwNzEz.D10Mrg.tD6C--6ACLDm2kav5etHHycGrk8");
